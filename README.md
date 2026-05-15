@@ -36,4 +36,4 @@ Output
 
 ## Final generated image is saved as:
 
-![Final Output](final_output.jpg)
+![Final Output](final_output.png)
